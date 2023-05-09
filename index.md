@@ -1,20 +1,20 @@
-#### Faculty
+### Faculty
 
 
 
-#### Adjoint and Courtesy Faculty
+### Adjoint and Courtesy Faculty
 
 
 
-#### TTIC Students
+### TTIC Students
 
 
 
-#### UChicago Students (with TTIC advisors)
+### UChicago Students (with TTIC advisors)
 
 
 
-#### Recent Alumni
+### Recent Alumni
 
 
 
