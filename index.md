@@ -28,6 +28,7 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 <td> <a href="https://home.ttic.edu/~cjulia/">Julia Chuzhoy</a> </td>
 <td> <a href="https://home.ttic.edu/~yury/">Yury Makarychev</a> </td>
 <td> <a href="https://ttic.uchicago.edu/~madhurt/">Madhur Tulsiani</a> </td>
+</tr>
 </table>
 
 
