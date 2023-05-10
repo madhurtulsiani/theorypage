@@ -256,27 +256,21 @@ table {
   color: $table-text-color;
   border-collapse: collapse;
   border: 0px solid $table-border-color;
-/**
   tr {
     &:nth-child(even) {
       background-color: $table-zebra-color;
     }
   }
-*/    
   th, td {
     padding: ($spacing-unit * 33.3333333333 * .01) ($spacing-unit * .5);
   }
-/**
   th {
     background-color: $table-header-bg-color;
     border: 0px solid $table-header-border;
   }
-*/    
-/**
   td {
     border: 0px solid $table-border-color;
   }
-*/    
   @include media-query($on-laptop) {
     display: block;
     overflow-x: auto;
