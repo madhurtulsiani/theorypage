@@ -37,6 +37,12 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 
 ### Research Faculty 
 
+|            <img src="siddharth.jpg" width="100">             |           <img src="lee.jpg" width="100">           |              <img src="saeed.jpg" width="100">               |              <img src="ohad.jpg" width="100">               |        <img src="ali.jpg" width="100">         |
+| :----------------------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------------------: | :--------------------------------------------: |
+| [Siddharth Bhandari](https://sites.google.com/view/siddharth-bhandari/) | [Lee Cohen](https://sites.google.com/view/leecohen) | [Saeed Sharifi-Malvajerdi](https://sites.google.com/view/saeedsh/home) | [Ohad Trabelsi](https://sites.google.com/view/ohadtrabelsi) | [Ali Vakilian](https://www.mit.edu/~vakilian/) |
+
+
+
 
 
 ### Other Affiliated Faculty
