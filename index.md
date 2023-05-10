@@ -8,34 +8,11 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 
 ### Faculty
 
-<table cellspacing="0" cellpadding="0">
-<tr>
-<td>
-<img src="avrim.jpg" width="100">
-</td>
-<td>
-<img src="julia.jpg" width="100">
-</td>
-<td>
-<img src="yury.jpg" width="100">
-</td>
-<td>
-<img src="madhur.jpg" width="100">
-</td>
-</tr>
-<tr>
-<td> <a href="https://home.ttic.edu/~avrim/">Avrim Blum</a> </td>
-<td> <a href="https://home.ttic.edu/~cjulia/">Julia Chuzhoy</a> </td>
-<td> <a href="https://home.ttic.edu/~yury/">Yury Makarychev</a> </td>
-<td> <a href="https://ttic.uchicago.edu/~madhurt/">Madhur Tulsiani</a> </td>
-</tr>
-</table>
+|      <img src="avrim.jpg" width="100">      |        <img src="julia.jpg" width="100">        |        <img src="yury.jpg" width="100">         |         <img src="madhur.jpg" width="100">         |
+| :-----------------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :------------------------------------------------: |
+| [Avrim Blum](https://home.ttic.edu/~avrim/) | [Julia Chuzhoy](https://home.ttic.edu/~cjulia/) | [Yury Makarychev](https://home.ttic.edu/~yury/) | [Madhur Tulsiani](https://home.ttic.edu/~madhurt/) |
 
 
-
-
-
-### Research Faculty 
 
 |            <img src="siddharth.jpg" width="100">             |           <img src="lee.jpg" width="100">           |              <img src="saeed.jpg" width="100">               |              <img src="ohad.jpg" width="100">               |        <img src="ali.jpg" width="100">         |
 | :----------------------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------------------: | :--------------------------------------------: |
