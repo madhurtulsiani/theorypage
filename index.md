@@ -33,6 +33,10 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 
 ### UChicago Students (with TTIC advisors)
 
+| <img src="pictures/mittal.jpg" height="150" width="100"> | <img src="pictures/wu.jpg" height="150" width="100"> |      |      |      |
+| :------------------------------------------------------: | :--------------------------------------------------: | :--: | :--: | :--: |
+|    [Tushant Mittal](https://mittaltushant.github.io)     |                       June Wu                        |      |      |      |
+
 
 
 ### Recent Alumni
