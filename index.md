@@ -15,7 +15,7 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 
 |      <img src="razborov.jpg" height="150" width="100">       |      <img src="bhaskara.jpg" height="150" width="100">       |      <img src="chlamtac.jpg" height="150" width="100">       |      |      |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :--: |
-| [Sasha Razborov](http://people.cs.uchicago.edu/~razborov/) <br> Resident Adjoint Faulty | [Aditya Bhaskara](https://users.cs.utah.edu/~bhaskara/) <br> Visiting Faculty | [Eden Chlamtac](https://www.cs.bgu.ac.il/~chlamtac/)<br> Visiting Faculty |      |      |
+| [Alexander Razborov](http://people.cs.uchicago.edu/~razborov/) <br> Adjoint Faculty | [Aditya Bhaskara](https://users.cs.utah.edu/~bhaskara/) <br> Visiting Faculty | [Eden Chlamtac](https://www.cs.bgu.ac.il/~chlamtac/)<br> Visiting Faculty |      |      |
 
 
 
