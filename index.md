@@ -4,11 +4,39 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 
 
 
+
+
 ### Faculty
 
-# |<img src='avrim.jpg' width="100">||<img src='julia.jpg' width="100">|<img src='yury.jpg' width="100">|<img src='madhur.jpg' width="100">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<img src="avrim.jpg" width="100">
+</td>
+<td>
+<img src="julia.jpg" width="100">
+</td>
+<td>
+<img src="yury.jpg" width="100">
+</td>
+<td>
+<img src="madhur.jpg" width="100">
+</td>
+</tr>
+<tr>
+<td> <a href="https://home.ttic.edu/~avrim/">Avrim Blum</a> </td>
+<td> <a href="https://home.ttic.edu/~cjulia/">Julia Chuzhoy</a> </td>
+<td> <a href="https://home.ttic.edu/~yury/">Yury Makarychev</a> </td>
+<td> <a href="https://ttic.uchicago.edu/~madhurt/">Madhur Tulsiani</a> </td>
+</table>
 
-|avrim|julia|yury|madhur
+
+
+
+
+### Research Faculty 
+
+
 
 ### Other Affiliated Faculty
 
