@@ -8,7 +8,7 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 
 ### Faculty
 
-| <img src="avrim.jpg" height="140" width="100"> | <img src="julia.jpg" height="140" width="100">  |  <img src="yury.jpg" height="140" width="100">  |  <img src="madhur.jpg" height="140" width="100">   |
+| <img src="avrim.jpg" height="50%" width="50%"> | <img src="julia.jpg"  height="50%" width="50%"> | <img src="yury.jpg"  height="50%" width="50%">  |  <img src="madhur.jpg"  height="50%" width="50%">  |
 | :--------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :------------------------------------------------: |
 |  [Avrim Blum](https://home.ttic.edu/~avrim/)   | [Julia Chuzhoy](https://home.ttic.edu/~cjulia/) | [Yury Makarychev](https://home.ttic.edu/~yury/) | [Madhur Tulsiani](https://home.ttic.edu/~madhurt/) |
 
