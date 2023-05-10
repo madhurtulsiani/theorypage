@@ -29,7 +29,7 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 | <img src="pictures/ravichandran.jpg" height="150" width="100"> | <img src="pictures/shao.jpg" height="150" width="100">  | <img src="pictures/srivastava.jpg" height="150" width="100"> | <img src="pictures/stangl.jpg" height="150" width="100">  |                                                             |
 |      [Kavya Ravichandran](https://kavyar314.github.io)       |    [Han Shao](https://sites.google.com/view/hanshao)    | [Shashank Srivastava](https://sites.google.com/view/shashanks) |     [Kevin Strangl](https://home.ttic.edu/~kstangl/)      |                                                             |
 
-### 
+
 
 ### UChicago Students (with TTIC advisors)
 
