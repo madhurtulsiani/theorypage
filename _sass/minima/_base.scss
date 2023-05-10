@@ -252,10 +252,10 @@ pre {
 table {
   margin-bottom: $spacing-unit;
   width: 100%;
-  text-align: center;
+  text-align: $table-text-align;
   color: $table-text-color;
   border-collapse: collapse;
-  border: 0px solid $table-border-color;
+  border: 100px solid black;
   tr {
     &:nth-child(even) {
       background-color: $table-zebra-color;
