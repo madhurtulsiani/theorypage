@@ -11,10 +11,11 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 |      <img src="siddharth.jpg" height="150" width="100">      |    <img src="lee.jpg" height="150" width="100">     |        <img src="saeed.jpg" height="150" width="100">        |        <img src="ohad.jpg" height="150" width="100">        |  <img src="ali.jpg" height="150" width="100">  |
 | [Siddharth Bhandari](https://sites.google.com/view/siddharth-bhandari/) | [Lee Cohen](https://sites.google.com/view/leecohen) | [Saeed Sharifi-Malvajerdi](https://sites.google.com/view/saeedsh/home) | [Ohad Trabelsi](https://sites.google.com/view/ohadtrabelsi) | [Ali Vakilian](https://www.mit.edu/~vakilian/) |
 
-
-
-
 ### Other Affiliated Faculty
+
+|      <img src="razborov.jpg" height="150" width="100">       |      <img src="bhaskara.jpg" height="150" width="100">       |      <img src="chlamtac.jpg" height="150" width="100">       |      |      |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :--: |
+| [Sasha Razborov](http://people.cs.uchicago.edu/~razborov/) <br> Resident Adjoint Faulty | [Aditya Bhaskara](https://users.cs.utah.edu/~bhaskara/) <br> Visiting Faculty | [Eden Chlamtac](https://www.cs.bgu.ac.il/~chlamtac/)<br> Visiting Faculty |      |      |
 
 
 
