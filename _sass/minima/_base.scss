@@ -255,7 +255,7 @@ table {
   text-align: $table-text-align;
   color: $table-text-color;
   border-collapse: collapse;
-  border: 0px solid $table-border-color;
+  border: 5px solid $table-border-color;
   tr {
     &:nth-child(even) {
       background-color: $table-zebra-color;
@@ -266,10 +266,10 @@ table {
   }
   th {
     background-color: $table-header-bg-color;
-    border: 0px solid $table-header-border;
+    border: 5px solid $table-header-border;
   }
   td {
-    border: 0px solid $table-border-color;
+    border: 5px solid $table-border-color;
   }
   @include media-query($on-laptop) {
     display: block;
