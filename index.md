@@ -45,15 +45,5 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 
 | Student Alumni                                               | RAP and Postdoc Alumni                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Goutham Rajendran](https://www.cs.cmu.edu/~gouthamr/)       | [Saeed Seddighin](https://sites.google.com/view/saeedrezaseddighin) |
-| [Fernando Granha Jeronimo ](https://granha.github.io/)       | [Hedyeh Beyhaghi](https://hedyehbeyhaghi.github.io)          |
-| [Dylan Quintana ](https://www.math.harvard.edu/people/quintana-dylan/) | [Arturs Backurs](https://www.mit.edu/~backurs/)              |
-| [Mrinalkanti Ghosh ](http://ttic.uchicago.edu/~mkghosh/)     | [Sepideh Mahabadi](https://www.mit.edu/~mahabadi/)           |
-| [Jafar Jafarov](https://www.cs.uchicago.edu/people/profile/jafar-jafarov/) | [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/) |
-| [Zihan Tan](https://sites.google.com/view/zihantan)          | [Li-Yang Tan](http://theory.stanford.edu/~liyang/)           |
-| [Haris Angelidakis](http://www.harisangelidakis.com/)        | [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/)     |
-| [David H. K. Kim](http://people.cs.uchicago.edu/~hongk/)     |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
+| [Goutham Rajendran](https://www.cs.cmu.edu/~gouthamr/)<br>[Fernando Granha Jeronimo ](https://granha.github.io/)<br>[Dylan Quintana ](https://www.math.harvard.edu/people/quintana-dylan/)<br>[Mrinalkanti Ghosh ](http://ttic.uchicago.edu/~mkghosh/)<br>[Jafar Jafarov](https://www.cs.uchicago.edu/people/profile/jafar-jafarov/)<br>[Zihan Tan](https://sites.google.com/view/zihantan)<br>[Haris Angelidakis](http://www.harisangelidakis.com/)<br>[David H. K. Kim](http://people.cs.uchicago.edu/~hongk/) | [Saeed Seddighin](https://sites.google.com/view/saeedrezaseddighin)<br>[Hedyeh Beyhaghi](https://hedyehbeyhaghi.github.io)<br>[Arturs Backurs](https://www.mit.edu/~backurs/)<br>[Sepideh Mahabadi](https://www.mit.edu/~mahabadi/)<br>[Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/)<br>[Li-Yang Tan](http://theory.stanford.edu/~liyang/)<br>[Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/)<br> |
 
