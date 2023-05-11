@@ -13,21 +13,21 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 
 
 
-### Other Affiliated Faculty
+### Other Affiliated Faculty and Postdocs
 
-|  <img src="pictures/razborov.jpg" height="150" width="100">  |  <img src="pictures/bhaskara.jpg" height="150" width="100">  |  <img src="pictures/chlamtac.jpg" height="150" width="100">  |      |      |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :--: |
-| [Alexander Razborov](http://people.cs.uchicago.edu/~razborov/) <br> Adjoint Faculty | [Aditya Bhaskara](https://users.cs.utah.edu/~bhaskara/) <br> Visiting Faculty | [Eden Chlamtac](https://www.cs.bgu.ac.il/~chlamtac/)<br> Visiting Faculty |      |      |
+|  <img src="pictures/razborov.jpg" height="150" width="100">  |  <img src="pictures/bhaskara.jpg" height="150" width="100">  |  <img src="pictures/chlamtac.jpg" height="150" width="100">  | <img src="pictures/ahmadi.jpg" height="150" width="100"> |  <img src="pictures/ghoshal.jpg" height="150" width="100">   |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: |
+| [Alexander Razborov](http://people.cs.uchicago.edu/~razborov/) <br> Adjoint Faculty | [Aditya Bhaskara](https://users.cs.utah.edu/~bhaskara/) <br> Visiting Faculty | [Eden Chlamtac](https://www.cs.bgu.ac.il/~chlamtac/)<br> Visiting Faculty | [Saba Ahmadi](https://sabaahmadi.github.io)<br/> Postdoc | [Suproval Ghoshal](https://sites.google.com/view/suprovat)<br/> Postdoc |
 
 
 
 ### TTIC Students
 
-|    <img src="pictures/dutz.jpg" height="150" width="100">    | <img src="pictures/manoj.jpg" height="150" width="100"> |  <img src="pictures/mosenzon.jpg" height="150" width="100">  | <img src="pictures/nimavat.jpg" height="150" width="100"> | <img src="pictures/ovsiankin.jpg" height="150" width="100"> |
-| :----------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: | :---------------------------------------------------------: |
-|                         Melissa Dutz                         |         [Naren Manoj](https://www.nsmanoj.com)          |                         Ron Mosenzon                         |     [Rachit Nimavat](https://home.ttic.edu/~nimavat/)     |             [Max Ovsiankin](https://maxov.org)              |
-| <img src="pictures/ravichandran.jpg" height="150" width="100"> | <img src="pictures/shao.jpg" height="150" width="100">  | <img src="pictures/srivastava.jpg" height="150" width="100"> | <img src="pictures/stangl.jpg" height="150" width="100">  |                                                             |
-|      [Kavya Ravichandran](https://kavyar314.github.io)       |    [Han Shao](https://sites.google.com/view/hanshao)    | [Shashank Srivastava](https://sites.google.com/view/shashanks) |     [Kevin Strangl](https://home.ttic.edu/~kstangl/)      |                                                             |
+|   <img src="pictures/dutz.jpg" height="150" width="100">    |   <img src="pictures/manoj.jpg" height="150" width="100">    | <img src="pictures/mosenzon.jpg" height="150" width="100"> |  <img src="pictures/naggita.jpg" height="150" width="100">   | <img src="pictures/nimavat.jpg" height="150" width="100"> |
+| :---------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: |
+|                        Melissa Dutz                         |            [Naren Manoj](https://www.nsmanoj.com)            |                        Ron Mosenzon                        |                        Keziah Naggita                        |     [Rachit Nimavat](https://home.ttic.edu/~nimavat/)     |
+| <img src="pictures/ovsiankin.jpg" height="150" width="100"> | <img src="pictures/ravichandran.jpg" height="150" width="100"> |   <img src="pictures/shao.jpg" height="150" width="100">   | <img src="pictures/srivastava.jpg" height="150" width="100"> | <img src="pictures/stangl.jpg" height="150" width="100">  |
+|             [Max Ovsiankin](https://maxov.org)              |      [Kavya Ravichandran](https://kavyar314.github.io)       |     [Han Shao](https://sites.google.com/view/hanshao)      | [Shashank Srivastava](https://sites.google.com/view/shashanks) |      [Kevin Stangl](https://home.ttic.edu/~kstangl/)      |
 
 
 
