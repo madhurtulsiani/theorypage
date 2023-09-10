@@ -5,9 +5,15 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 
 ### Faculty
 
+#### Tenure-Track
+
 |   <img src="pictures/avrim.jpg" height="150" width="100">    | <img src="pictures/julia.jpg" height="150" width="100"> |    <img src="pictures/yury.jpg" height="150" width="100">    |  <img src="pictures/madhur.jpg" height="150" width="100">   |                                                       |
 | :----------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------: |
 |         [Avrim Blum](https://home.ttic.edu/~avrim/)          |     [Julia Chuzhoy](https://home.ttic.edu/~cjulia/)     |       [Yury Makarychev](https://home.ttic.edu/~yury/)        |     [Madhur Tulsiani](https://home.ttic.edu/~madhurt/)      |                                                       |
+
+
+#### Research Faculty
+
 | <img src="pictures/siddharth.jpg" height="150" width="100">  |  <img src="pictures/lee.jpg" height="150" width="100">  |   <img src="pictures/saeed.jpg" height="150" width="100">    |   <img src="pictures/ohad.jpg" height="150" width="100">    | <img src="pictures/ali.jpg" height="150" width="100"> |
 | [Siddharth Bhandari](https://sites.google.com/view/siddharth-bhandari/) |   [Lee Cohen](https://sites.google.com/view/leecohen)   | [Saeed Sharifi-Malvajerdi](https://sites.google.com/view/saeedsh/home) | [Ohad Trabelsi](https://sites.google.com/view/ohadtrabelsi) |    [Ali Vakilian](https://www.mit.edu/~vakilian/)     |
 
