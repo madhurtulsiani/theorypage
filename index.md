@@ -17,6 +17,8 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 | <img src="pictures/siddharth.jpg" height="150" width="100">  |  <img src="pictures/lee.jpg" height="150" width="100">  |   <img src="pictures/saeed.jpg" height="150" width="100">    |   <img src="pictures/ohad.jpg" height="150" width="100">    | <img src="pictures/ali.jpg" height="150" width="100"> |
 | :----------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------: |
 | [Siddharth Bhandari](https://sites.google.com/view/siddharth-bhandari/) |   [Lee Cohen](https://sites.google.com/view/leecohen)   | [Saeed Sharifi-Malvajerdi](https://sites.google.com/view/saeedsh/home) | [Ohad Trabelsi](https://sites.google.com/view/ohadtrabelsi) |    [Ali Vakilian](https://www.mit.edu/~vakilian/)     |
+| <img src="pictures/santhoshini.jpg" height="150" width="100">  |    |       |       |  |
+| [Santhoshini Velusamy](https://scholar.harvard.edu/santhoshiniv/home) |     |  |  |         |
 
 
 
