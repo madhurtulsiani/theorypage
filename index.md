@@ -14,7 +14,7 @@ TTIC has a highly active theory group, including several tenure-track faculty an
 
 #### Research Faculty
 
-| <img src="pictures/siddharth.jpg" height="150" width="100">  |  <img src="pictures/saeed.jpg" height="150" width="100">  |  <img src=“pictures/shan.jpg” height=“150” width=“100”>    |   <img src="pictures/ohad.jpg" height="150" width="100">    | <img src="pictures/ali.jpg" height="150" width="100"> |
+| <img src="pictures/siddharth.jpg" height="150" width="100">  |  <img src="pictures/saeed.jpg" height="150" width="100">  |  <img src=“pictures/shan.jpg” height=“150” width=“100”>   |   <img src="pictures/ohad.jpg" height="150" width="100">    | <img src="pictures/ali.jpg" height="150" width="100"> |
 | :----------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------: |
 | [Siddharth Bhandari](https://sites.google.com/view/siddharth-bhandari/)  | [Saeed Sharifi-Malvajerdi](https://sites.google.com/view/saeedsh/home) | [Liren Shan](https://lirenshan.github.io) | [Ohad Trabelsi](https://sites.google.com/view/ohadtrabelsi) |    [Ali Vakilian](https://www.mit.edu/~vakilian/)     |
 | <img src="pictures/santhoshini.jpg" height="150" width="100">  |    |       |       |  |
